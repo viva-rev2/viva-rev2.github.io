@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://viva-rev2.github.io/posts/b909cfef/</loc>
+    
+    <lastmod>2022-05-26</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://viva-rev2.github.io/posts/6c726ec5/</loc>
     
     <lastmod>2022-05-26</lastmod>
@@ -245,15 +254,6 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/posts/b909cfef/</loc>
-    
-    <lastmod>2022-03-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://viva-rev2.github.io/posts/53fd17f7/</loc>
     
     <lastmod>2022-03-23</lastmod>
@@ -362,14 +362,14 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E5%8E%86%E5%8F%B2/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E6%94%BF%E6%B2%BB/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E6%94%BF%E6%B2%BB/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E5%8E%86%E5%8F%B2/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -383,14 +383,14 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E6%96%87%E8%89%BA/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E6%97%B6%E8%AF%84/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E6%97%B6%E8%AF%84/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E6%96%87%E8%89%BA/</loc>
     <lastmod>2022-05-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
