@@ -22,7 +22,7 @@
   <url>
     <loc>https://viva-rev2.github.io/posts/2b6bb1dc/</loc>
     
-    <lastmod>2022-07-05</lastmod>
+    <lastmod>2022-07-13</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -308,7 +308,7 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/tags/index.html</loc>
+    <loc>https://viva-rev2.github.io/categories/index.html</loc>
     
     <lastmod>2021-12-16</lastmod>
     
@@ -317,7 +317,7 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/index.html</loc>
+    <loc>https://viva-rev2.github.io/tags/index.html</loc>
     
     <lastmod>2021-12-16</lastmod>
     
@@ -421,14 +421,14 @@
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E6%94%BF%E6%B2%BB/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E6%96%87%E8%89%BA/</loc>
     <lastmod>2022-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://viva-rev2.github.io/categories/%E6%96%87%E8%89%BA/</loc>
+    <loc>https://viva-rev2.github.io/categories/%E6%94%BF%E6%B2%BB/</loc>
     <lastmod>2022-07-13</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
